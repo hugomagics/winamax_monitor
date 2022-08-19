@@ -1,5 +1,5 @@
 # 1 - clone the project <br />
-git clone https://github.com/hugomagics/winamax_monitor.git
+    git clone https://github.com/hugomagics/winamax_monitor.git
 # 2 - file a .env file following this: <br /> 
     EMAIL="yourmail@amazingmail.com"
     PASSWORD="mybestpassword"
